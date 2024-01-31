@@ -1,0 +1,6 @@
+---
+title: "New Blog"
+author: "Xiaoyi Liu"
+date: "2024-01-31"
+categories: [news, code, analysis]
+---
